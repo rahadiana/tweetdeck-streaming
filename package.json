@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "pending-xhr-puppeteer": "^2.3.3"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
